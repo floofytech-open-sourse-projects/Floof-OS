@@ -1,4 +1,4 @@
-.TH FLOOFOS 7 "March 2026" "FloofyTech" "System Administration"
+.TH FLOOFOS 7 "March 2026" "FloofyTech" "Miscellaneous Information"
 
 .SH NAME
 floofos - lightweight Debian-based operating system
@@ -8,18 +8,19 @@ floofos - lightweight Debian-based operating system
 [bootable live environment]
 
 .SH DESCRIPTION
-FloofOS is a Debian-derived operating system designed for
-reliability, hardware compatibility, and easy deployment. The system
-can run entirely from removable media and does not require installation
-to an internal storage device.
+FloofOS is a Debian-derived operating system designed for reliability,
+hardware compatibility, and ease of deployment. The system can run
+entirely from removable media and does not require installation to an
+internal storage device.
 
-FloofOS uses a customized boot environment and provides
-the Cinnamon desktop environment along with a curated set of tools for
-general computing, troubleshooting, and system recovery tasks.
+FloofOS uses a customized boot environment and provides the Cinnamon
+desktop environment along with a curated set of tools for general
+computing, troubleshooting, and system recovery tasks.
 
-The operating system may be run directly from USB drives, external SSDs, and internal drives
-or within virtual machines. A persistence layer may optionally be used
-to retain user files and configuration between sessions.
+The operating system may be run directly from USB drives, external or
+internal storage devices, or within virtual machines. A persistence
+layer may optionally be used to retain user files and configuration
+between sessions.
 
 .SH FEATURES
 .IP (bu 2
